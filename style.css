@@ -89,6 +89,9 @@ body {
     width: 165px;
     margin-right: 4px;
     border-radius: 40px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
 }
 
 .westwing i {
